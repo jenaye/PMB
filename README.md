@@ -1,4 +1,4 @@
-## PMB  7.3.10 - CVE-XXX 
+## PMB  7.3.10 - CVE-2022-34328 
 
 * Description : Allow attacker to inject arbitrary malicious HTML or Javascripts code in user web browser
 * Affected version :  7.3.10 >=
