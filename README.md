@@ -1,4 +1,4 @@
-## PMB 7.4.1 - CVE-XXX 
+## PMB 7.4.1 - CVE-2022-38346
 
 * Description : Allow authenticated attacker to dump database from POST request
 * Affected version : 7.4.1 
